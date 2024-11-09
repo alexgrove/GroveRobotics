@@ -1,4 +1,6 @@
 package org.firstinspires.ftc.teamcode;
 
-public class SecondBotCode {
+import com.qualcomm.robotcore.eventloop.opmode.OpMode;
+
+public class SecondBotCode extends OpMode   {
 }
